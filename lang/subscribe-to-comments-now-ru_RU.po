@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: STCN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-12 18:14+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\tools\\program\\xampp\\htdocs\\wp-content\\plugins\\statpresscn\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: subscribe-to-comments-now.php:56
+msgid "<b>Subscribe to Comments Now!</b> plugin requires <a href=\"http://wordpress.org/extend/plugins/subscribe-to-comments/\">Subscribe to Comments</a> plugin to do its job. Please install and activate it."
+msgstr "Плагин <b>Subscribe to Comments Now!</b> требует наличия плагина <a href=\"http://wordpress.org/extend/plugins/subscribe-to-comments/\">Subscribe to Comments</a> для работы. Пожалуйста, установите и активируйте его."
+
+#. Plugin Name of an extension
+msgid "Subscribe to Comments Now!"
+msgstr "Subscribe to Comments Now!"
+
+#. Plugin URI of an extension
+msgid "http://www.poradnik-webmastera.com/projekty/subscribe_to_comments_now/"
+msgstr "http://www.poradnik-webmastera.com/projekty/subscribe_to_comments_now/"
+
+#. Description of an extension
+msgid "Subscribe to Comments plugin has \"subscribe without commenting\" form, but you must edit your template to insert it. This plugin displays this form without the need to edit anything."
+msgstr "В плагине Subscribe to Comments  есть форма \"Подписка без комментариев\" , но вы должны отредактировать шаблон, чтобы вставить ее. Этот плагин отображает форму без необходимости редактирования."
+
+#. Author of an extension
+msgid "Daniel Fruyski"
+msgstr "Daniel Fruyski"
+
+#. Author URI of an extension
+msgid "http://www.poradnik-webmastera.com/"
+msgstr "http://www.poradnik-webmastera.com/"
+
